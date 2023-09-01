@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /*.png$
+Disallow: /*.jpg$
+
+Sitemap: https://pueblonuevo.ar/sitemap.xml
